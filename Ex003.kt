@@ -1,5 +1,10 @@
 package braniumacademy
 
+/**
+ * @author braniumacademy
+ * @website braniumacademy.net
+*/
+
 fun main() {
     println("Nhập vào năm cần kiểm tra: ")
     var year = readLine()!!.toInt()

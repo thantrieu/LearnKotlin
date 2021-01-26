@@ -1,5 +1,10 @@
 package braniumacademy
 
+/**
+ * @author braniumacademy
+ * @website braniumacademy.net
+*/
+
 fun main() {
     var n: Int
     var k: Int
